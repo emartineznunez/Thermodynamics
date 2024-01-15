@@ -8,7 +8,7 @@ Choose your favorite user interface:
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/Lab1/Lab1.ipynb)
+Lab1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/Lab1/Lab1.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/Lab2/Lab2.ipynb)
+Lab2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/Lab2/Lab2.ipynb)
 
