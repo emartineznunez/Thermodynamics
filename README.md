@@ -9,7 +9,7 @@ Choose your favorite user interface:
 
 The results obtained in the lab sessions can be analyzed using Google Colab notebooks:
 
-**Lab1:**    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/Lab1/Lab1.ipynb)
+**Lab1:**    [![Lab 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/Lab1/Lab1.ipynb)
 
 **Lab2:**    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/Lab2/Lab2b.ipynb)
 
