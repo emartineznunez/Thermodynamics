@@ -7,3 +7,4 @@ python-ternary
 scipy
 ipympl
 jupyterlab_latex
+jupyter_contrib_nbextensions
