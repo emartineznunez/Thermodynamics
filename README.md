@@ -10,7 +10,7 @@ Click to access a notebook about chemical potential in ideal gases:
 **Chemical potential of a pure ideal gas $\mu^0(T)$** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/mu.ipynb)
 
 Click to access a notebook about equilibrium constants in ideal gases:   
-**Equilibrium constant** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/kp.ipynb)
+**Equilibrium constant of a reaction involving ideal gases $K_p^0(T)$** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/kp.ipynb)
 
 The results obtained in the lab sessions can be analyzed using Google Colab notebooks:
 
