@@ -18,3 +18,4 @@ The results obtained in the lab sessions can be analyzed using Google Colab note
 
 **Lab2:**    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/Lab2/Lab2b.ipynb)
 
+**Lab3:**     https://github.com/daferro/Notebooks_Chemical_Equilibrium  
