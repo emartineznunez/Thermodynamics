@@ -12,9 +12,6 @@ Click to access a notebook about chemical potential in ideal gases:
 Click the following link to access notebooks about the simulation of a chemical equilibrium:   
 https://github.com/daferro/Notebooks_Chemical_Equilibrium 
 
-Click to access a notebook about equilibrium constants in ideal gases:   
-**Equilibrium constant of a reaction involving ideal gases $K_p^0(T)$** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/kp.ipynb)
-
 The results obtained in the lab sessions can be analyzed using Google Colab notebooks:
 
 **Lab1:**    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/Thermodynamics/blob/main/Lab1/Lab1.ipynb)
